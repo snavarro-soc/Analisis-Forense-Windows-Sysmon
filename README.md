@@ -9,6 +9,12 @@ Análisis forense digital (DFIR) de una intrusión por RDP. Correlación de regi
 
 ---
 
+## 🎥 Demostración Práctica
+
+> 🚧 **Video en preparación:** El análisis en vivo del visor de eventos y la extracción del malware mediante PowerShell se publicará próximamente.
+
+---
+
 ## 🚨 Contexto del Escenario
 
 En un turno habitual dentro del SOC, se detectó la activación de una alerta crítica indicando anomalías de autenticación en la estación de trabajo corporativa `THM-PC`. Tras realizar el triaje inicial de los eventos, la evidencia apuntaba a un compromiso activo, por lo que se decidió escalar el incidente e iniciar una investigación forense profunda (Deep Dive).
